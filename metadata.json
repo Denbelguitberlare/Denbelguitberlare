@@ -1,0 +1,6 @@
+{
+  "name": "AI Explainer",
+  "description": "Interactive Gemini AI explorer to generate concise explanations, learn how AI works, and test custom prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
